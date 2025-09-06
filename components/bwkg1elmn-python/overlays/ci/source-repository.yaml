@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: bwkg1elmn-python-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/bwkg1elmn-python
